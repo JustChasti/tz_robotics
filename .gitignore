@@ -1,0 +1,6 @@
+/venv
+modules/__pycache__/decorators.cpython-311.pyc
+modules/__pycache__/fileworker.cpython-311.pyc
+modules/__pycache__/excel_writer.cpython-311.pyc
+modules/__pycache__/json_parser.cpython-311.pyc
+data.log
